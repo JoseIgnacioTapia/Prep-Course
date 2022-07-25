@@ -1,0 +1,28 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: rgb(143, 23, 23);
+}
+
+img {
+  width: 400px;
+  height: 300px;
+}
+
+#thirdDiv {
+  width: 500px;
+  height: 600px;
+  background-color: rgb(212, 228, 228);
+  padding: 50px;
+  border: 2px solid rgb(247, 58, 58);
+}
+
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
